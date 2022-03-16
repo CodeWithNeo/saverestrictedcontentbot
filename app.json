@@ -24,8 +24,12 @@
             "description": "Bot token, get it from @BotFather.",
             "value": ""
         },
+        "AUTH": {
+            "description": "owner user id.",
+            "value": ""
+        },
         "SESSION": {
-            "description": "Telethon string session.",
+            "description": "pyrogram string session.",
             "value": ""
         },
         "FORCESUB": {
