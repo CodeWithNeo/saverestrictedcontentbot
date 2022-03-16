@@ -31,7 +31,7 @@ PYROGRAM SESSION: [SessionGen Bot](https://youtu.be/_0UbqID7x3A) or [![Run on Re
 
 BOT TOKEN: @Botfather on telegram
 
-# [Deploy](https://heroku.com/deploy?)
+# [Deploy](https://heroku.com/deploy)
   
 - Fork the repo, and star it
 - create app in heroku
