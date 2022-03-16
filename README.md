@@ -4,7 +4,7 @@
 
 Contact: [Telegram](https://t.me/GreyMatter_bots)
 
-A stable telegram bot to get restricted messages with custom thumbnail support , made by @MaheshChauhan. 
+A stable telegram bot to get restricted messages with custom thumbnail support. 
 
 - works for both public and private channels
 - Custom thumbnail support for Pvt medias
