@@ -31,7 +31,7 @@ PYROGRAM SESSION: [SessionGen Bot](https://youtu.be/_0UbqID7x3A) or [![Run on Re
 
 BOT TOKEN: @Botfather on telegram
 
-# [Deploy To Heroku](https://heroku.com/deploy/)
+# [Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/greymatter658/saverestrictedcontentbot)
   
 - How to deploy 👇
 # [Tutorial Video](https://youtu.be/bwNGMa200OY)
