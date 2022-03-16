@@ -25,7 +25,7 @@
             "value": ""
         },
         "AUTH": {
-            "description": "Enter your Telegram UserID"
+            "description": "enter userid/owner id"
             "value": ""
         },
         "SESSION": {
