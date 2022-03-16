@@ -24,6 +24,10 @@
             "description": "Bot token, get it from @BotFather.",
             "value": ""
         },
+        "AUTH": {
+            "description": "Enter your Telegram UserID"
+            "value": ""
+        },
         "SESSION": {
             "description": "pyrogram string session.",
             "value": ""
