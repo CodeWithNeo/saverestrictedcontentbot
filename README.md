@@ -31,16 +31,7 @@ PYROGRAM SESSION: [SessionGen Bot](https://youtu.be/_0UbqID7x3A) or [![Run on Re
 
 BOT TOKEN: @Botfather on telegram
 
-# [Deploy](https://heroku.com/deploy)
+# [Deploy To Heroku](https://heroku.com/deploy)
   
-- Fork the repo, and star it
-- create app in heroku
-- go to settings of app>> config vars>> add all variables
-- add buildpacks
-- connect to github and deploy
-- turn on dynos
-  
-Buildpacks for manual deploy:
-
-- `heroku/python`
-- `https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git`
+- How to deploy 👇
+# [Tutorial Video](https://youtu.be/bwNGMa200OY)
