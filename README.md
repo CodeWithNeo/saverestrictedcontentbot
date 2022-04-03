@@ -2,7 +2,7 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/GreyMatter_bots)
+Contact: [Telegram](https://t.me/ModstoreIran)
 
 A stable telegram bot to get restricted messages with custom thumbnail support. 
 
@@ -31,12 +31,12 @@ PYROGRAM SESSION: [SessionGen Bot](https://youtu.be/_0UbqID7x3A) or [![Run on Re
 
 BOT TOKEN: @Botfather on telegram
 
-# [Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/greymatter658/saverestrictedcontentbot)
+# [Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/CodeWithNeo/saverestrictedcontentbot)
 - if Deploy Button didn't work than copy this URL👇
 
-https://heroku.com/deploy?template=https://github.com/greymatter658/saverestrictedcontentbot
+https://heroku.com/deploy?template=https://github.com/CodeWithNeo/saverestrictedcontentbot
 
-and replace " greymtter658 " with your github Username.
+and replace " CodeWithNeo " with your github Username.
   
 # How to deploy 👇
 # [Tutorial Video](https://youtu.be/bwNGMa200OY)
