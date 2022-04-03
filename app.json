@@ -8,9 +8,9 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/greymatter658/SaveRestrictedContentBot",
+    "repository": "https://github.com/CodeWithNeo/SaveRestrictedContentBot",
     "website": "",
-    "success_url": "https://t.me/greymatter_bots",
+    "success_url": "https://t.me/ModstoreIran",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
